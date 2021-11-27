@@ -1,0 +1,13 @@
+.container-flex-atas,
+.container-flex-bawah{
+    display: flex;
+    gap: 10px;
+    margin-top: 10px;
+}
+.flex-item{
+    flex-grow: 1;
+    width: 300px;
+    height: 300px;
+    border: solid 5px;
+    background-color: lightgray;
+}
